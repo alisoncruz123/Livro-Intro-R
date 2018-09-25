@@ -1,1 +1,1 @@
-# Livro-Intro-R
+# Livro-de-Econometria-Series-Temporaris
